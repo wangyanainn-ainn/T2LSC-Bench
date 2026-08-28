@@ -5,8 +5,6 @@
 Semantically matched targets provide a reference condition, while cross-domain targets act as diagnostic stress probes. A stress probe is not itself labeled as leakage: SLR is positive only when visible, target-text-associated, non-textual evidence appears outside the anchor beyond the default subject context.
 
 
-<img width="1164" height="592" alt="image" src="https://github.com/user-attachments/assets/145242dc-55b9-433a-a614-02252dbe75a1" />
-
 ## Repository Structure
 
 ```text
