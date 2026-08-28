@@ -28,7 +28,6 @@ T2LSC-Bench/
 |   |-- generation_templates.md  # natural and anti-leakage templates
 |   |-- taa_vlm_judge.txt        # text-verification prompt
 |   `-- semantic_blind_judge.txt # blinded semantic prompt
-|-- CITATION.cff
 |-- .env.example
 |-- requirements.txt
 `-- README.md
@@ -130,10 +129,13 @@ The script prints each metric together with its valid denominator. It performs n
 
 This repository releases the benchmark definitions, complete generation prompts, fixed evaluation prompts, fusion logic, and metric implementation. It intentionally excludes generated images, model outputs, aggregate result tables, credentials, repair utilities, and provider-specific generation clients. Exact image-generation reproduction also depends on access to the evaluated proprietary model versions and their service-side behavior at the time of evaluation.
 
-## Citation
-
-Please cite the accompanying paper. Citation metadata are provided in [`CITATION.cff`](CITATION.cff).
-
 ## License
 
 A license is not included in this draft. Add the license approved by all authors before making the repository public; otherwise, third parties do not receive permission to reuse the released artifacts.
+
+##Contact Information
+
+Project Maintainer: Wang Yan
+Author：Yan Wang, Xinyi Hou, Weiguo Lin, Junjun Si, and Siwei Ma
+Project Link: [https://github.com/wangyanainn-ainn/T2LSC-Bench]
+Note: This project is for academic research purposes only. Please comply with relevant laws and regulations and API usage terms.
