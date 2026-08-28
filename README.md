@@ -137,6 +137,7 @@ A license is not included in this draft. Add the license approved by all authors
 ##Contact Information
 
 Project Maintainer: Wang Yan
+
 Author：Yan Wang, Xinyi Hou, Weiguo Lin, Junjun Si, and Siwei Ma
 
 Project Link: [https://github.com/wangyanainn-ainn/T2LSC-Bench]
