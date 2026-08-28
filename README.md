@@ -45,7 +45,7 @@ Each of the 50 seeds defines a concrete physical subject, its default identity o
 | Prompt mode | natural, anti-leakage |
 | Language | English, Chinese |
 
-This yields `3 x 2 x 2 x 2 = 24` cases per seed and **1,200 prompt cases per evaluated generator**. The accompanying paper evaluates six generators. Of 7,200 planned generations, 7,160 were available for analysis. Generated images and experimental results are not distributed in this minimal release.
+This yields `24` cases per seed and **1,200 prompt cases per evaluated generator**. The accompanying paper evaluates six generators. Of 7,200 planned generations, 7,160 were available for analysis. Generated images and experimental results are not distributed in this minimal release.
 
 ## Evaluation Protocol
 
