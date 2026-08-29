@@ -134,7 +134,7 @@ This repository releases the benchmark definitions, complete generation prompts,
 
 A license is not included in this draft. Add the license approved by all authors before making the repository public; otherwise, third parties do not receive permission to reuse the released artifacts.
 
-##Contact Information
+## Contact Information
 
 Project Maintainer: Wang Yan
 
