@@ -130,10 +130,6 @@ The script prints each metric together with its valid denominator. It performs n
 
 This repository releases the benchmark definitions, complete generation prompts, fixed evaluation prompts, fusion logic, and metric implementation. It intentionally excludes generated images, model outputs, aggregate result tables, credentials, repair utilities, and provider-specific generation clients. Exact image-generation reproduction also depends on access to the evaluated proprietary model versions and their service-side behavior at the time of evaluation.
 
-## License
-
-A license is not included in this draft. Add the license approved by all authors before making the repository public; otherwise, third parties do not receive permission to reuse the released artifacts.
-
 ## Contact Information
 
 Project Maintainer: Wang Yan
